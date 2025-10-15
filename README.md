@@ -4,4 +4,4 @@ Este projeto automatiza testes no site SauceDemo, cobrindo login, carrinho, chec
 ## Como Rodar
 1. Instale dependências:
    pip install robotframework robotframework-browser
-   npm install @playwright/test
+   npm install playwright
